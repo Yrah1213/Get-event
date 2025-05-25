@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GET Event</string>
+    <string name="add_event">Ajouter un événement</string>
+    <string name="event_title">Titre</string>
+    <string name="event_description">Description</string>
+    <string name="event_date">Date</string>
+    <string name="event_location">Lieu</string>
+    <string name="event_organizer">Organisateur</string>
+    <string name="save_event">Enregistrer</string>
+    <string name="edit_event">Modifier l\'événement</string>
+    <string name="delete_event">Supprimer l\'événement</string>
+    <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer cet événement ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="event_saved">Événement enregistré</string>
+    <string name="event_deleted">Événement supprimé</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs</string>
+</resources>
